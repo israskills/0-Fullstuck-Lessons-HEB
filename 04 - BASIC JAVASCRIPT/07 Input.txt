@@ -1,0 +1,7 @@
+כתבו תכנית הקולטת 3 מספרים מהשתמש מציגה את ממוצע המספרים.
+
+ניתן להציג את ההודעה ב-alert.
+
+----------
+
+https://drive.google.com/drive/folders/1smcav10xHwdDuMWZws9D6FqambnFQd1z

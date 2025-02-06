@@ -1,0 +1,11 @@
+תרגול
+
+יש לבנות דף עם תמונה בגוף הדף וקישור לדף אחר שבנית, קישור לאתר חיצוני, קישור לקובץ תמונה, קישור אל קובץ וורד.
+
+יש לבנות דף עם רשימה מסודרת ורשימה בלתי מסודרת ובכל אחת 4 פריטים. 
+בנוסף להוסיף גם רשימה של תיאורים <dl>.
+
+
+פתרון
+https://drive.google.com/drive/folders/1F5ZbzK1YIgjegzYl5Jauqa1wBKRwL2Wx
+https://drive.google.com/drive/folders/15dtsKjp8sESg9df3MmVeZ9gAtQWhsYJG

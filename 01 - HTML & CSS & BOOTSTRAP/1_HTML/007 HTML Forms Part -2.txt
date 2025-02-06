@@ -1,0 +1,15 @@
+יש לבנות דף עם כותרת <h1> ולהגדיר בתגית את 6 התכונות הבאות באמצעות:
+css: color, background-color, text-align, width, height, font-size
+
+יש לבנות טופס שיתלבש על המנוע חיפוש של גוגל עם הכתובת
+https://www.google.co.il/search
+תיבת טקסט בשם name=q
+וכפתור שליחה submit
+יש לבדוק שאכן הטופס יחזיר תוצאות חיפוש של מנוע החיפוש.
+
+
+---------------------------
+
+https://drive.google.com/drive/folders/1BVb0lcuB8Y27bVvAnz2U3k3aQsJsjhD6
+
+https://drive.google.com/drive/folders/1_KB-br3kwWj-5QVETDSEjdlbLbhTfinO

@@ -1,0 +1,9 @@
+יש לבנות טבלה אסימטרית בהתאם לקובץ התמונה שמצורף.
+
+יש לבנות דף עם קו, עיגול, מלבן ומצולע. יש להגדיר גם צבע מילוי וגם צבע תיחום לצורות.
+
+---------------
+
+https://drive.google.com/drive/folders/1Puq2gvktgaEL2Bo6QRkfam7wH3_OKP-W
+
+https://drive.google.com/drive/folders/1oJg6K__4fKVzn-nbOWh5X4SL4sZPi4KR

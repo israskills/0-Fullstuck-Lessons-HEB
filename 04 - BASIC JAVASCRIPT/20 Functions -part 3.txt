@@ -1,0 +1,11 @@
+Write a program that takes a whole number and returns its factorial.
+
+Display the result using alert.
+
+Example:
+If the function receives the number 5, it should return 120 (since 1 * 2 * 3 * 4 * 5 = 120).
+
+
+-------------
+
+https://drive.google.com/drive/folders/10_-Wantq3FQdLSAvDgveW3mpt656DF_R

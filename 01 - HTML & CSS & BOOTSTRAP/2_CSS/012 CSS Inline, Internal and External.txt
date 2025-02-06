@@ -1,0 +1,15 @@
+יש לבנות דף עם 2 כותרות מסוג <h1>.
+יש להגדיר 2 הגדרות עיצוב בשלושת האפשרויות - inline, internal - head, external file.
+
+יש לבנות דף עם 3 כותרות מסוג <h1>
+להגדיר הגדרות עיצוב לפי id
+מחלקה שיכולה לשמש בכל תגית class
+מחלקה שיכולה לשמש בכותרת בלבד class
+הגדרות עיצוב לתגית של כותרת
+ולהפעיל את ההגדרות על התגיות שבגוף הדף.
+
+------------
+
+https://drive.google.com/drive/folders/14UNktSgkQrhVDYAYfzsQV5Xytpz9EMii
+
+https://drive.google.com/drive/folders/15CdrFs5rMoQr1fkmqdEhPG8MmBPADq8q

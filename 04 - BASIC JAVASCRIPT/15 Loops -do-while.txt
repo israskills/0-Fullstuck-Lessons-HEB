@@ -1,0 +1,21 @@
+Write a program that takes a number from the user and displays the sum of its digits. The length of the number is unknown.
+Example:
+If the user enters the number 1234, the result will be: 1 + 2 + 3 + 4 = 10.
+If the user enters the number 3664, the result will be: 3 + 6 + 6 + 4 = 19.
+
+The result can be displayed using alert.
+
+Write a program that takes a number from the user and displays a message indicating whether the number is prime or not.
+A prime number is a number that is divisible only by 1 and itself, without any other divisors.
+
+Example:
+7 — is a prime number,
+13 — is a prime number,
+21 — is not a prime number,
+40 — is not a prime number.
+
+The message can be displayed using alert.
+
+----------------
+
+https://drive.google.com/drive/folders/14vx-QDW3BXbdwZPuAdr5vPOfLqN4Y2-w

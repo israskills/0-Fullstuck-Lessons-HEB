@@ -1,0 +1,10 @@
+Write a program that handles an array with 10 numbers and displays the largest number in the array.
+
+Do not use the built-in Math.max() function.
+The result can be displayed using alert.
+Write a program that handles an array with 10 numbers and displays a message indicating how many even and odd numbers are in the array.
+
+
+------------
+
+https://drive.google.com/drive/folders/1ta5n3WnlCwvvSI-07jciJH__i_z_N1s1
