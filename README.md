@@ -1,6 +1,6 @@
 # My Learning Steps
 
-<details>
+<details open>
   <summary>📂 Главное меню</summary>
   <details>
     <summary>🍔 Бургеры</summary>
